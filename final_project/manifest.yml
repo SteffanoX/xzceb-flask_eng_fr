@@ -1,5 +1,5 @@
 ---
 applications:
- - name: ibmlearner_translation_app
+ - name: French - Engligh Translator
    random-random: true
    memory: 64M
